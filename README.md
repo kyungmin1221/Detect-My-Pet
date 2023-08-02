@@ -24,6 +24,7 @@
 
 ### ✅ 반려동물 감지 
 <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/51cf8943-c65d-445e-8c5d-54062920133d" width="800" />
+
 ### ✅ 감지 후 
 <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/a323d467-1844-40bf-ba35-6f35347434ce" width="800" />
 
