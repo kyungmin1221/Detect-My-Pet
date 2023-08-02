@@ -9,7 +9,7 @@
 
 ### 🖼️ 설계도
 <p align="center">
- <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/85c06bdb-8b8b-4e1a-8d10-56d7401aa6aa" width="1500" />
+ <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/85c06bdb-8b8b-4e1a-8d10-56d7401aa6aa" width="800" />
  </p>
  
 ### 🎈 라즈베리파이 구조
