@@ -2,7 +2,7 @@
 
 ## ⚙ 구조도
 <p align="center">
-  ![KakaoTalk_Photo_2023-08-02-15-36-24-001](https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/544114c3-bc80-4add-b983-a74924075202)
+ <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/85c06bdb-8b8b-4e1a-8d10-56d7401aa6aa" width="1500" />
 " />
 "/>
 
