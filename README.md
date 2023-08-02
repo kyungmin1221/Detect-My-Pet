@@ -20,11 +20,12 @@
 <br/>
 
 ### ❌ 감지 전
-<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/28544958-9e7b-4f94-b6a3-df1a78c28494" width="1500" />
+<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/28544958-9e7b-4f94-b6a3-df1a78c28494" width="800" />
 
-
-### ✅ 감지 후
-<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/a323d467-1844-40bf-ba35-6f35347434ce" width="1500" />
+### ✅ 반려동물 감지 
+<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/51cf8943-c65d-445e-8c5d-54062920133d" width="800" />
+### ✅ 감지 후 
+<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/a323d467-1844-40bf-ba35-6f35347434ce" width="800" />
 
 ### 반려동물이 접근한 경우,
 ### 반려동물이 라즈베리파이 센서기준 거리 15이하로 접근하였을 때,  빨강과 노란색 LED가 켜지고 (피에조부조)스피커가 울려 반려동물에게 경고 소리를 내줍니다.
