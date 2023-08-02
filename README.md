@@ -2,7 +2,7 @@
 
 ## ⚙ 구조도
 <p align="center">
-  <img width="80%" src="<img width="80%" src= "<img width="80%" src="https://github.com/kyungmin1221/Detect-My-Pet/raw/main/assets/105621255/544114c3-bc80-4add-b983-a74924075202.png" />
+  <img width="80%" src="<img width="80%" src= "<img width="80%" src="https://github.com/kyungmin1221/Detect-My-Pet/raw/main/assets/105621255/544114c3-bc80-4add-b983-a74924075202.jpg" />
 " />
 "/>
 
