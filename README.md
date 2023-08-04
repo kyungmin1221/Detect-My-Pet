@@ -8,33 +8,33 @@
 
 
 ### 🖼️ 설계도
-<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/85c06bdb-8b8b-4e1a-8d10-56d7401aa6aa" width="800" />
+<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/85c06bdb-8b8b-4e1a-8d10-56d7401aa6aa" width="500" />
  
  
 ### 🎈 라즈베리파이 구조
- <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/d85895a3-dae0-43d2-aaec-9453f10a663c" width="800" />
- <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/7c27e7b8-96e4-4821-9a1b-ee09b06afee8" width="800" />
- <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/9f432778-ba2c-49bc-80c4-a0b48ee7b1fd" width="800" />
+ <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/d85895a3-dae0-43d2-aaec-9453f10a663c" width="300" />
+ <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/7c27e7b8-96e4-4821-9a1b-ee09b06afee8" width="300" />
+ <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/9f432778-ba2c-49bc-80c4-a0b48ee7b1fd" width="300" />
 
 <br/>
 <br/>
 
 ### ❌ 감지 전
-<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/28544958-9e7b-4f94-b6a3-df1a78c28494" width="800" />
+<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/28544958-9e7b-4f94-b6a3-df1a78c28494" width="300" />
 
 ### ✅ 반려동물 감지 
-<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/51cf8943-c65d-445e-8c5d-54062920133d" width="800" />
+<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/51cf8943-c65d-445e-8c5d-54062920133d" width="300" />
 
 ### ✅ 감지 후 
-<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/a323d467-1844-40bf-ba35-6f35347434ce" width="800" />
+<img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/a323d467-1844-40bf-ba35-6f35347434ce" width="300" />
 
-### 반려동물이 접근한 경우,
+### ❗️반려동물이 접근한 경우
 ### 반려동물이 라즈베리파이 센서기준 거리 15이하로 접근하였을 때,  빨강과 노란색 LED가 켜지고 (피에조부조)스피커가 울려 반려동물에게 경고 소리를 내줍니다.
 ### 웹페이지에서는 "반려동물을 감시중입니다" 라는 문구로 사용자에게 실시간으로 반려동물의 상태를 알려줄 수 있습니다.
 <br/>
 <br/>
 
 ### 🛠 기술 스택
-<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-v4.7.0-000000?style=flat&logo=OpenCv&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Flask-98FB98?style=flat&logo=Flask&logoColor=black"/> 
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-v4.7.0-000000?style=flat&logo=OpenCv&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-98FB98?style=flat&logo=Flask&logoColor=black"/> 
 <br/>
 <br/>
