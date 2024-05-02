@@ -5,7 +5,8 @@
 반려동물에게 무슨일이 생기진 않을까 걱정을 할 수 있고, 실제로도 위험한 물건을 건드린다거나 하면 반려동 물에게 자칫 큰 사고가 발생할 수 있습니다. 
 다시말해서, 반려동물들에게 일어날 수 있는 사고들을 사전에 미리 방지하면 어떨까 하는 아이디어로 이 프로젝트를 계획 및 진행하게 되었습니다. 
 
-
+### 🛠 기술 스택
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-v4.7.0-000000?style=flat&logo=OpenCv&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-98FB98?style=flat&logo=Flask&logoColor=black"/> 
 
 ### 🖼️ 설계도
 <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/85c06bdb-8b8b-4e1a-8d10-56d7401aa6aa" width="500" />
@@ -19,13 +20,13 @@
 <br/>
 <br/>
 
-### ❌ 감지 전
+### ❌ 반려동물 감지 전
 <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/28544958-9e7b-4f94-b6a3-df1a78c28494" width="300" />
 
 ### ✅ 반려동물 감지 
 <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/51cf8943-c65d-445e-8c5d-54062920133d" width="300" />
 
-### ✅ 감지 후 
+### ✅ 반려동물 감지 후 
 <img src="https://github.com/kyungmin1221/Detect-My-Pet/assets/105621255/a323d467-1844-40bf-ba35-6f35347434ce" width="300" />
 
 ### ❗️반려동물이 접근한 경우
@@ -34,7 +35,6 @@
 <br/>
 <br/>
 
-### 🛠 기술 스택
-<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-v4.7.0-000000?style=flat&logo=OpenCv&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-98FB98?style=flat&logo=Flask&logoColor=black"/> 
+
 <br/>
 <br/>
